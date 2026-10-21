@@ -42,3 +42,4 @@ A beginner-friendly Java project built to practise Java, Git, and GitHub.
 ## Author
 
 Student developer learning Java and version control.
+This project is maintained using Git branches and commits.
