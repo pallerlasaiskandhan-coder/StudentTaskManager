@@ -26,6 +26,7 @@ public class Main {
 
         while (true) {
             System.out.println("\n=== Student Task Manager ===");
+            System.out.println("Manage your daily tasks by priority!");
             System.out.println("1. Add Task");
             System.out.println("2. View Tasks");
             System.out.println("3. Delete Task");
